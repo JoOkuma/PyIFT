@@ -17,10 +17,10 @@ if __name__ == '__main__':
 
     A = ift.Circular(1.0)
 
-    if os.path.exists(out_1_dir):
+    if not os.path.exists(out_1_dir):
         os.makedirs(out_1_dir)
 
-    if os.path.exists(out_2_dir):
+    if not os.path.exists(out_2_dir):
         os.makedirs(out_2_dir)
 
     for idx, path in enumerate(origs_dir):
