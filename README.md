@@ -14,7 +14,6 @@ Binaries for other systems can be supplied upon request.
 
 * libpython\<version\>-dev
 * Simplified Wrapper Interface Generator (SWIG)
-* ...
 
 ## Installation
 
@@ -32,9 +31,7 @@ help(ift.ReadImageByExt)
 
 ## References
 
-Bragantini,  J.,  Martins,  S.B.,  Castelo-Fernandez,  C.,  Falcão,  A.X.:  Graph-based
-image segmentation using dynamic trees. In: 23rd Iberoamerican Congress on Pattern 
-Recognition (2018), to appear
+Bragantini, Jordão, et al. "Graph-Based Image Segmentation Using Dynamic Trees." Iberoamerican Congress on Pattern Recognition. Springer, Cham, 2018.
 
 Falcão, A.X. and Bragantini, J.: The Role of Optimum Connectivity in Image Segmentation: 
 Can the algorithm learn object information during the process? In: Discrete Geometry for 

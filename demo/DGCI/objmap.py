@@ -18,7 +18,7 @@ def check_aux_img(s):
 
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser(prog='Image segmentation using optimum-path trees and seed selection.')
+    parser = argparse.ArgumentParser(prog='Object saliency using optimum-path forest and seed selection.')
     parser.add_argument('-i', '--input-image', type=check_io_img, required=True)
     parser.add_argument('-m', '--markers-image', type=check_aux_img, required=True)
     parser.add_argument('-s', '--superpixel-image', type=check_aux_img, required=True)
