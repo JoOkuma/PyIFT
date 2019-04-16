@@ -15,9 +15,9 @@ Binaries for other systems can be supplied upon request.
 * libpython\<version\>-dev
 * Simplified Wrapper Interface Generator (SWIG)
 
-## Installation
+## Installation with virtualenv
 
-`sudo pip install pyift.-<version>-<python version>-<python lib version>-<system>.whl`
+`pip install dist/pyift.-<version>-<python version>-<python lib version>-<system>.whl`
 
 ## Documentation
 
